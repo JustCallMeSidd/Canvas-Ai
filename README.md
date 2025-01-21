@@ -1,8 +1,5 @@
 Canvas AI – Image Transformation and Enhancement Project
 
-Dear Sidd,
-
-I hope this email finds you well.
 
 I wanted to introduce you to our latest project, Canvas AI, which is similar to the Sculpt AI concept. Canvas AI uses Generative Adversarial Networks (GANs) to transform and enhance images in unique and creative ways. It has two primary functionalities:
 
