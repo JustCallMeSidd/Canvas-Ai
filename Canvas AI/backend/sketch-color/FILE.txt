@@ -1,1 +1,0 @@
-This is where we put gan model for sketch to color in H5 format
